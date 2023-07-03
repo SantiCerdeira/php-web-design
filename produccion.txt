@@ -1,0 +1,8 @@
+categorias:
+diseño grafico
+diseño de interfaces
+experiencia de usuario
+marketing y ventas
+
+tengo que pensar qué podría usar como middleware
+

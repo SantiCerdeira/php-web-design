@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.altoMaximo {
+    height: 100px;
+}
+
+/* AGREGAR ARTÍCULO */
+.aclaracion {
+    font-size: 1rem;
+    opacity: 75%;
+}
+
+/* STATS */
+.statsContainer{
+    background-color: rgba(16, 44, 70, 0.909);
+    border-radius: 3px;
+    padding: 3rem;
+}
+
+.stats {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 1rem;
+    transition: 0.2s;
+}
+
+.stats:hover {
+    box-shadow:0px 3px 8px rgba(122, 168, 238, 0.75);
+    transform: scale(1.01);
+}
+
+.pendiente {
+    background-color: rgb(245, 178, 55);
+    border-radius: 5px;
+}
+
+.finalizada {
+    background-color: rgb(40, 175, 65);
+    border-radius: 5px;
+}
